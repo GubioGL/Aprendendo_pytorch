@@ -22,14 +22,14 @@ Se você estiver interessado em contribuir ou fornecer feedback, sinta-se à von
 
 Para experimentar os projetos neste repositório, siga estas etapas simples:
 
-1. Clone este repositório: `git clone https://github.com/seu-username/nome-do-repositorio.git`
+1. Clone este repositório: `git clone https://github.com/GubioGL/Aprendendo_pytorch.git`
 2. Navegue até o diretório do projeto: `cd nome-do-repositorio`
 
 ## Contato
 
 Se você tiver alguma dúvida ou apenas quiser trocar ideias, fique à vontade para me contatar. Estou sempre interessado em aprender com outros entusiastas do PyTorch.
 
-- Email: seu@email.com
+- Email: gubiofisika@gmail.com
 - [LinkedIn](https://br.linkedin.com/in/gubio-gomes-de-lima-a99973106)
 
 Obrigado por visitar meu repositório! Espero que você encontre algo útil e inspirador aqui.
