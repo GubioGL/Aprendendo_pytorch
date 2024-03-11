@@ -1,35 +1,29 @@
-# Projetos e Experimentos com PyTorch
+# Projects and Experiments with PyTorch
 
-Olá!
+Hello!
 
-Bem-vindo ao meu repositório, onde compartilho meus projetos e experimentos com a biblioteca PyTorch. Estou atualmente explorando as nuances do PyTorch para aprimorar meu conhecimento em redes neurais, aprendizado de máquina entre outros.
+Welcome to my repository, where I share my projects and experiments with the PyTorch library. I'm currently exploring the nuances of PyTorch to improve my knowledge of neural networks, machine learning, among others.
 
-## Sobre este Repositório
+## About this Repository
 
-Este repositório é um espaço dedicado ao meu aprendizado contínuo com PyTorch. Aqui, você encontrará projetos que variam desde simples experimentos até implementações mais complexas. Meu objetivo é aprender, crescer e, claro, compartilhar conhecimento com a comunidade.
+This repository is a space dedicated to my ongoing learning with PyTorch. Here, you will find projects ranging from simple experiments to more complex implementations. My goal is to learn, grow and, of course, share knowledge with the community.
 
-## Recursos Principais
+## Key Features
 
-- [Introdução ao Pytorch]: Introdução dos conceitos basicos de adição, multiplicação, dtype,devidec....
-- [Projeto 2]: Breve descrição do projeto ou experimento.
+- [Introdução ao Pytorch](https://github.com/GubioGL/Aprendendo_pytorch/blob/main/pytorch_leaning_00_pynb.ipynb): Introduction to the basic concepts of addition, multiplication, dtype, tensor, device ....
+- [Projeto 01](https://github.com/GubioGL/Aprendendo_pytorch/blob/main/pytorch_leaning_01_pynb.ipynb): Pytorch workflow fundamentals> data train, simple neural network class, loss fucntion, how to optimize parameters step-by-step
+- [Projeto 01-GPU](https://github.com/GubioGL/Aprendendo_pytorch/blob/main/pytorch_leaning_01_GPU.ipynb): Pytorch workflow fundamentals with GPU.
 - [E assim por diante...]
 
-## Como Contribuir
+## How to Contribute
 
-Se você estiver interessado em contribuir ou fornecer feedback, sinta-se à vontade para abrir uma issue ou enviar um pull request. Consulte as [diretrizes de contribuição](CONTRIBUTING.md) para obter mais informações.
+If you are interested in contributing or providing feedback, feel free to open an issue or submit a pull request. Please see [contributing guidelines](CONTRIBUTING.md) for more information.
 
-## Instalação
+## Installation
 
-Para experimentar os projetos neste repositório, siga estas etapas simples:
+To try out the projects in this repository, follow these simple steps:
 
-1. Clone este repositório: `git clone https://github.com/GubioGL/Aprendendo_pytorch.git`
-2. Navegue até o diretório do projeto: `cd nome-do-repositorio`
+1. Clone this  repository: `git clone https://github.com/GubioGL/Aprendendo_pytorch.git`
+2. Navigate to  the project directory: `cd Aprendendo_pytorch`
 
-## Contato
-
-Se você tiver alguma dúvida ou apenas quiser trocar ideias, fique à vontade para me contatar. Estou sempre interessado em aprender com outros entusiastas do PyTorch.
-
-- Email: gubiofisika@gmail.com
-- [LinkedIn](https://br.linkedin.com/in/gubio-gomes-de-lima-a99973106)
-
-Obrigado por visitar meu repositório! Espero que você encontre algo útil e inspirador aqui.
+Thanks for visiting my repository! I hope you find something useful and inspiring here.
