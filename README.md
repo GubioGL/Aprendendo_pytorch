@@ -1,5 +1,3 @@
-# Projects and Experiments with PyTorch
-
 Hello!
 
 Welcome to my repository, where I share my projects and experiments with the PyTorch library. I'm currently exploring the nuances of PyTorch to improve my knowledge of neural networks, machine learning, among others.
